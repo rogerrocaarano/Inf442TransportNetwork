@@ -1,3 +1,5 @@
+using TransportNetwork.Lib.Interfaces;
+
 namespace TransportNetwork.Lib.Graph;
 
 public class Node

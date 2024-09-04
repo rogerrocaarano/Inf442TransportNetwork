@@ -128,9 +128,6 @@ public class DirectedGraph : IGraph
             .Select(e => e.Destination)
             .ToList();
     }
-
-    public List<Node> DijkstraAlgorithm(Node start, Node end)
-    {
-        throw new NotImplementedException();
-    }
+    
+    
 }
